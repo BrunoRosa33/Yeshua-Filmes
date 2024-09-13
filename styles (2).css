@@ -1,0 +1,27 @@
+body {
+      color:rgb(163, 66, 21);
+      background: black;
+      margin: 80px;
+}
+ 
+header {
+        border-bottom: solid 5px rgb(255, 255, 255);
+        padding: 15;
+        font-size: 50px;
+        color:rgb(163,66, 21);
+}
+
+section  {
+         background:rgb(163, 66, 21);
+         padding-bottom: 90px;
+         padding-top: 90px;
+         display: flex;
+         justify-content: center;
+}
+
+.bolo {
+      padding: 30px;
+
+
+
+}
